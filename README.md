@@ -29,7 +29,6 @@
 <a href="https://linkedin.com/in/shailendrasingh22" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50" /></a>
 <a href="https://instagram.com/shailendrasingh22" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="50" /></a>
 
-[![Shailendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shelen22&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/shelen/github-readme-stats)
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelen22&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="Shailendra" height="139" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shelen22&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="Shailendra" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shelen22&layout=compact&exclude_repo=FT-WEB-12-U3-C4-Eval&border_radius=0" alt="Shailendra" height="139" />
 </p>
