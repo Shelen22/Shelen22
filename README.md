@@ -23,6 +23,6 @@
  
 
 <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
-<a href="https://twitter.com/Shailen45994454" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/ width="30px"></a>
+<a href="https://twitter.com/Shailen45994454" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/ width="30"></a>
 <a href="https://linkedin.com/in/shailendrasingh22" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://instagram.com/shailendrasingh22" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram"/></a>
