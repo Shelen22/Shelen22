@@ -40,7 +40,7 @@
 
 <p>
 <a href="https://gautam-8.github.io/FW_12_Project_lynda/">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shelen22&repo=Gautam-8/FW_12_Project_lynda&locale=en&border_radius=0" alt="m-sehrawat"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=shelen22&repo=FW_12_Project_lynda&locale=en&border_radius=0" alt="m-sehrawat"/>
 </a>
   <a href="https://github.com/m-sehrawat/Adidas-Website-Clone">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=m-sehrawat&repo=Adidas-Website-Clone&locale=en&border_radius=0" alt="m-sehrawat"/>
