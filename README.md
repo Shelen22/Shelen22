@@ -29,4 +29,4 @@
 <a href="https://linkedin.com/in/shailendrasingh22" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50" /></a>
 <a href="https://instagram.com/shailendrasingh22" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="50" /></a>
 
-[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vermakhushboo&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/vermakhushboo/github-readme-stats)
+[![Shailendra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shelen22&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/shelen/github-readme-stats)
