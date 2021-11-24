@@ -5,11 +5,13 @@
 <img src="https://intro.rustbridge.com/img/ferris.gif" align="right"  width="300">
   
 
- -I’m currently learning Backend and practicing Data Structure and Algorithm.
+ - I’m currently learning Backend and practicing Data Structure and Algorithm.
 
--I’ve recently finished working on [Lynda.com(Linkedin-Learning) clone](https://github.com/Gautam-8/FW_12_Project_lynda) Project.
+- I’ve recently finished working on [Lynda.com(Linkedin-Learning) clone](https://gautam-8.github.io/FW_12_Project_lynda/) Project.
 
--I’ve completed [IndiaMART](https://github.com/m-sehrawat/Adidas-Website-Clone) Project.
+- I’ve completed [IndiaMART](https://upsehu.github.io/India-Mart/) Project.
+
+- I’ve completed [Movies-App](https://lnkd.in/dSjXJNUF) Project.
 
  #### 👨🏻‍💻 Languages and Tools <br />
 <p>
@@ -26,3 +28,5 @@
 <a href="https://twitter.com/Shailen45994454" target="_blank"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter" width="50"></a>
 <a href="https://linkedin.com/in/shailendrasingh22" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin" width="50" /></a>
 <a href="https://instagram.com/shailendrasingh22" target="_blank"><img src="https://img.icons8.com/color/96/000000/instagram-new.png" alt="instagram" width="50" /></a>
+
+[![Khushboo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vermakhushboo&hide=issues&count_private=true&show_icons=true&theme=calm)](https://github.com/vermakhushboo/github-readme-stats)
