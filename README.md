@@ -2,7 +2,7 @@
 <h3><i>I develop software, build technical communities, create content and love meeting new people!</i></h3>
  - `Glad to see you here!`<span><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></span>
 
- <img src="https://little.kylerconway.com/images/golang-what.gif" width="300"><img src="https://intro.rustbridge.com/img/ferris.gif"  width="300">
+<img src="https://intro.rustbridge.com/img/ferris.gif" align="right"  width="300">
   
 
  -I’m currently learning Backend and practicing Data Structure and Algorithm.
