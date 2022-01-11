@@ -1,4 +1,6 @@
-<h1 >Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Shailendra singh <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1>
+<h1 >Hey <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"> I'm Shailendra singh <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="35"></h1> 
+
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=shelen22.shelen22) -->
 
  - `Glad to see you here!`<span><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"></span>
 
@@ -37,4 +39,16 @@
 </p>
 
 <h3><i>Top Repositories <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.rapidapi.com%2Fwp-content%2Fuploads%2F2017%2F01%2Foctocat.gif&f=1&nofb=1" width="50" /> </i></h3>
+<p>
+ 
+<a href="https://github.com/Shelen22/FW_12_Project_lynda">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shelen22&repo=FW_12_Project_lynda&locale=en&border_radius=0&bg_color=#fff&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="Shailendra"/>
+</a>
+
+
+
+<a href="https://github.com/Upsehu/India-Mart">
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Upsehu&repo=India-Mart&locale=en&border_radius=0&bg_color=#fff&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="Raj"/>
+</a>
+</p>
 
