@@ -46,7 +46,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Gautam-8&repo=FW_12_Project_lynda&locale=en&border_radius=0&bg_color=#fff&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="Shailendra"/>
 </a>
 
-<a href="https://github.com/Upsehu/India-Mart">
+<a href="https://github.com/Shelen22/India-Mart">
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Shelen22&repo=India-Mart&locale=en&border_radius=0&bg_color=#fff&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" alt="Shailendra"/>
 </a>
 </p>
